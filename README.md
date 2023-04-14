@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivoxprojects
-- 👀 I’m interested in GUI applications made in python
+- 👀 I’m interested in GUI applications
 - 🌱 I’m currently learning customtkinter in python
 - 📫 How to reach me ekkivox#1849
 
