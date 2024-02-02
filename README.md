@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ivoxprojects
-- 👀 I’m interested in GUI applications
-- 🌱 I’m currently learning customtkinter in python
-- 📫 How to reach me ekkivox#1849
+Check out my latest project ezres
 
 <!---
 ivoxprojects/ivoxprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
